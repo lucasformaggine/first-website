@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    color: white;
+}
+
+:root {
+    font-size: 100%;
+}
+
+body, input, button, textarea {
+    font: 400 1rem/1 'Nunito', sans-serif;
+}
+
+#logo {
+    animation-delay: 50ms;
+}
+
+.location {
+    animation-delay: 100ms;
+}
+
+main h1 {
+    animation-delay: 150ms;
+}
+
+.visit p {
+    animation-delay: 200ms;
+}
+
+.visit a {
+    animation-delay: 250ms;
+}
