@@ -1,5 +1,5 @@
 # My First Website
-Developing my first website using HTML5 and C55 in a local server
+Developing my first website in a local server using HTML5 and CSS.
 
 ![image](https://user-images.githubusercontent.com/53341833/97764138-63914180-1aec-11eb-8ddd-40c040a7cf62.png)
 
